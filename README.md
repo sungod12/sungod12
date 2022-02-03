@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - 📧 **prabhusuraj103@gmail.com**
   
-- ⚡ Fun fact: Coding is fun unless you have to debug whole code in one night.😅
+- ⚡ Fun fact: Coding is fun unless you have to debug whole code in one night,without anyone's help in linux.😅
 
