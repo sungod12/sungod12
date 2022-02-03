@@ -13,5 +13,5 @@
 
 > ## What can I do ?
   - I can help you debug the code,if I have somewhat experience in the language
-  - I can learn new technologies provided I get enough time to try it out by coding it out.
+  - I can learn new technologies provided I get enough time to try it out by coding it.
 
