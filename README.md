@@ -1,4 +1,4 @@
-# Hi there 👋. I am Suraj Prabhu.
+# Hi there 👋. I am <a href="https://www.linkedin.com/in/surajprabhu12">Suraj Prabhu</a>
 
 # Where can you find me?
   <a href="https://www.linkedin.com/in/surajprabhu12"><img width="50px" src="https://user-images.githubusercontent.com/55348832/152314260-b3d2e6b3-95bb-427a-b781-8c0d0da567b9.png"/></a> <a href="mailto:prabhusuraj103@gmail.com"><img  width="50px" src="https://user-images.githubusercontent.com/55348832/152315308-82d23019-d080-4520-9aa0-16e069719d04.png"/></a>
